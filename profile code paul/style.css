@@ -1,0 +1,197 @@
+body {background-image: url(image/source.gif);
+    
+    background-size:cover;
+    
+
+}
+	
+.card h4{
+	font-family: 'Alata', sans-serif;
+	color: white;
+	text-align: center;
+	font-size: 40px;
+	width: cover;
+	
+	display: block;
+	background-color: black
+	padding: 0 auto;
+	background-image: url(image/banane.gif);
+	max-width: 50%;
+	margin: auto;
+	height: auto;
+}
+
+.card5{
+	text-align: center;
+}
+
+.pres{
+	font-family: 'Alata', sans-serif;
+	color: pink;
+	font-size: 35px;
+	letter-spacing: 30px;
+    display: block;
+	position: relative;
+	width: 400px;
+	height: 100px;
+	margin: 2px auto;
+	text-align: center;
+	}
+
+/*.smoke{*/
+    /*display: flex;*/
+    /*width: 400px;*/
+	/*height: 250px;*/
+	/*position: relative;*/
+	/*justify-content: flex-start;*/
+	/*align-items: center; */
+    /*margin-left: 500px;*/
+	/*transform: rotate(90deg); */
+/*}*/
+     
+
+
+.card1{
+	font-family: 'Alata', sans-serif;
+	color: white;
+	font-size: 35px; 
+    display: block;
+	position: : relative;
+	width: 400px;
+	height: 500px;
+	margin: 2px auto;
+	text-align:center;
+	background-image: url(image/richard.gif);
+
+}
+.card1 h1 {
+	margin-bottom: -30px;
+}
+
+.heading {
+	display: flex;
+	position: relative;
+	justify-content: flex-start;
+	align-items:;
+	
+	color: white;
+	font-size: 40px;
+	width: 400px;
+	height: 150px;
+	padding-right:0px;
+	padding-left: 990px
+
+	
+
+}
+
+
+.text_img {
+	font-family: 'Alata', sans-serif;
+	color: white;
+	font-size: 20px; 
+    display: block;
+	position: : relative;
+	width: 400px;
+	height: 300px;
+	padding-right:0px;
+	padding-left: 900px;
+	text-align: center;
+	
+}
+
+#festoche {
+	letter-spacing: 20px;
+}
+
+
+.house {
+	display: flex;
+	position: relative;
+	justify-content: flex-start;
+	align-items: center;
+
+}
+
+.house h1 {
+	font-family: 'Alata', sans-serif;
+	color: white;
+	width: 100%;
+	font-size: 60px;
+}
+
+.photo{
+	font-family: 'Alata', sans-serif;
+	color: white;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	width: 100%;
+	height: 200px;
+	margin-top: 30px;
+	text-align: center;
+	padding-top: 20px
+	margin-bottom:200px;
+	padding-bottom: 200px;
+	margin-left: 25px;
+}
+.ligne2{
+	font-family: 'Alata', sans-serif;
+	color: white;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	width: 100%;
+	height: 200px;
+	margin-top: 30px;
+	text-align: center;
+	padding-top: 20px
+	margin-bottom:200px;
+	padding-bottom: 200px;
+	
+
+} 
+
+h1:hover{
+	color: pink;
+	transform: scale(1.1);
+	transition: ease 3s;
+}
+
+.hero-footer {
+	display: flex;
+	margin-bottom: 1em;
+}
+.button {
+	padding: .5em .67em;
+	color: white;
+	text-decoration: none;
+	border: .1em solid white;
+
+}
+	
+.heading a {
+	font-family: 'Alata', sans-serif
+	text-decoration: none;
+	color: white;
+}
+
+	.button-primary {
+		color: black;
+		background-color: white  
+	}
+
+#photo1:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+
+}
+#photo2:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+
+}
+#photo3:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
